@@ -8,6 +8,8 @@ Node JS app template using Yarn.
 
 Install dependencies with: `yarn install`
 
+To upgrade dependencies (danger!) run `yarn upgrade --latest`
+
 ## Testing
 
 Uses Mocha, Sinon, Chai.
